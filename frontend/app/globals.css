@@ -1,0 +1,196 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* NOESIS — dark editorial luxury */
+  --background: #0a0a0f;
+  --foreground: #e8e0d0;
+  --card: #0f0f16;
+  --card-foreground: #e8e0d0;
+  --popover: #0f0f16;
+  --popover-foreground: #e8e0d0;
+  --primary: #c9a96e;
+  --primary-foreground: #0a0a0f;
+  --secondary: #16161f;
+  --secondary-foreground: #e8e0d0;
+  --muted: #16161f;
+  --muted-foreground: #6b6557;
+  --accent: #c9a96e;
+  --accent-foreground: #0a0a0f;
+  --destructive: oklch(0.396 0.141 25.723);
+  --destructive-foreground: oklch(0.637 0.237 25.331);
+  --border: #1e1e2a;
+  --input: #1e1e2a;
+  --ring: #c9a96e;
+  --radius: 0rem;
+
+  /* noesis-specific tokens */
+  --gold: #c9a96e;
+  --gold-dim: rgba(201, 169, 110, 0.18);
+  --gold-glow: rgba(201, 169, 110, 0.35);
+  --cream: #e8e0d0;
+  --cream-dim: rgba(232, 224, 208, 0.45);
+  --void: #0a0a0f;
+  --surface: #0f0f16;
+  --surface-raised: #13131c;
+  --divider: rgba(201, 169, 110, 0.15);
+}
+
+@theme inline {
+  --font-sans: var(--font-dm-serif);
+  --font-serif: var(--font-dm-serif);
+  --font-mono: var(--font-ibm-plex-mono);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius));
+  --radius-md: calc(var(--radius));
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius));
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-background text-foreground font-mono;
+    background-color: var(--void);
+    color: var(--cream);
+  }
+}
+
+/* Grain texture overlay */
+.grain-overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.045;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-size: 200px 200px;
+  mix-blend-mode: overlay;
+}
+
+/* Radial glow at center */
+.radial-glow {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background: radial-gradient(
+    ellipse 70% 55% at 50% 45%,
+    rgba(201, 169, 110, 0.04) 0%,
+    rgba(30, 20, 10, 0.06) 40%,
+    transparent 70%
+  );
+}
+
+/* Step entrance animation */
+@keyframes stepIn {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.step-enter {
+  animation: stepIn 0.65s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* Progress bar fill animation */
+@keyframes progressFill {
+  from { width: var(--progress-from); }
+  to   { width: var(--progress-to); }
+}
+
+/* Underline expand animation */
+.underline-expand {
+  position: relative;
+  display: inline-block;
+}
+.underline-expand::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: var(--gold);
+  transition: width 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.underline-expand:hover::after {
+  width: 100%;
+}
+
+/* Gold glow on dilemma card hover */
+.dilemma-card {
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+}
+.dilemma-card:hover {
+  border-color: var(--gold) !important;
+  box-shadow: 0 0 28px var(--gold-glow), inset 0 0 20px rgba(201, 169, 110, 0.04);
+}
+.dilemma-card.selected {
+  border-color: var(--gold) !important;
+  box-shadow: 0 0 36px var(--gold-glow), inset 0 0 24px rgba(201, 169, 110, 0.06);
+  background-color: var(--gold-dim);
+}
+
+/* Minimal ghost textarea */
+.ghost-textarea {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--divider);
+  color: var(--cream);
+  resize: none;
+  outline: none;
+  font-family: var(--font-dm-serif), serif;
+  transition: border-color 0.3s ease;
+  caret-color: var(--gold);
+}
+.ghost-textarea:focus {
+  border-bottom-color: rgba(201, 169, 110, 0.55);
+}
+.ghost-textarea::placeholder {
+  color: var(--cream-dim);
+  font-style: italic;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--gold-dim);
+  border-radius: 2px;
+}
+
