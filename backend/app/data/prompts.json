@@ -1,0 +1,426 @@
+[
+  {
+    "cita": "Dios ha muerto. Y nosotros lo hemos matado.",
+    "autor": "Friedrich Nietzsche",
+    "corriente": "nihilismo",
+    "dilema": "¿Es legítimo construir tu sistema de valores sin referencia alguna a tradiciones religiosas o morales heredadas, incluso si eso te enfrenta a tu familia y entorno laboral?",
+    "pregunta_abierta": "Si aceptas que no hay un fundamento trascendente del bien y del mal, ¿sobre qué criterio concreto construyes tus decisiones diarias cuando hay costes reales para otros? ¿Qué te frena cuando nada «sagrado» parece poner límites?",
+    "temas": ["moral", "religión", "autonomía"]
+  },
+  {
+    "cita": "La historia de toda la sociedad hasta nuestros días es la historia de la lucha de clases.",
+    "autor": "Karl Marx",
+    "corriente": "marxismo",
+    "dilema": "¿Te parece moralmente aceptable beneficiarte de productos y servicios baratos sabiendo que se apoyan en condiciones laborales precarias en otros países?",
+    "pregunta_abierta": "Si asumes que participas cotidianamente en relaciones de explotación estructural, ¿hasta qué punto te consideras responsable individualmente de esa injusticia, y qué nivel de sacrificio estarías dispuesto a asumir para no sostenerla?",
+    "temas": ["clase social", "consumo", "justicia social"]
+  },
+  {
+    "cita": "Los proletarios no tienen qué perder más que sus cadenas. Y tienen un mundo que ganar.",
+    "autor": "Karl Marx",
+    "corriente": "marxismo",
+    "dilema": "¿Justificarías que un colectivo recurra a huelgas radicales que paralizan servicios básicos para presionar por derechos laborales, aunque afecten gravemente a terceros?",
+    "pregunta_abierta": "Cuando un grupo oprimido utiliza estrategias que dañan a inocentes para lograr cambios estructurales, ¿dónde sitúas la línea entre resistencia legítima y violencia injustificable?",
+    "temas": ["huelga", "protesta", "conflicto"]
+  },
+  {
+    "cita": "La religión es el opio del pueblo.",
+    "autor": "Karl Marx",
+    "corriente": "marxismo",
+    "dilema": "¿Es aceptable que un Estado financie con dinero público instituciones religiosas que proporcionan consuelo y servicios sociales, aunque refuercen estructuras de poder conservadoras?",
+    "pregunta_abierta": "Si consideras que una creencia es una ilusión que mantiene a la gente pasiva frente a la injusticia, ¿crees que debe ser combatida activamente aunque eso desestabilice la cohesión social de comunidades vulnerables?",
+    "temas": ["religión", "estado", "ideología"]
+  },
+  {
+    "cita": "El poder político es simplemente el poder organizado de una clase para oprimir a otra.",
+    "autor": "Karl Marx",
+    "corriente": "marxismo",
+    "dilema": "¿Te parece justificable usar todos los resortes legales disponibles para asegurar ventajas políticas para tu grupo social, sabiendo que otros quedarán estructuralmente atrás?",
+    "pregunta_abierta": "Si la política está inevitablemente capturada por intereses de clase, ¿tiene sentido seguir las reglas del juego, o tienes alguna obligación moral de subvertir un sistema que te beneficia injustamente?",
+    "temas": ["poder", "clase", "política"]
+  },
+  {
+    "cita": "La vida comienza al otro lado de la desesperación.",
+    "autor": "Jean-Paul Sartre",
+    "corriente": "existencialismo",
+    "dilema": "¿Te parece honesto animar a alguien en depresión a seguir adelante apelando a un sentido de la vida que tú mismo no ves claro en tu propia existencia?",
+    "pregunta_abierta": "Si piensas que no hay sentido dado de antemano pero ves a alguien al borde de rendirse, ¿qué derecho tienes a empujarle a seguir viviendo cuando tú tampoco puedes garantizarle que «valga la pena»?",
+    "temas": ["sentido", "desesperación", "autenticidad"]
+  },
+  {
+    "cita": "No existe realidad alguna excepto en la acción.",
+    "autor": "Jean-Paul Sartre",
+    "corriente": "existencialismo",
+    "dilema": "¿Te consideras moralmente responsable de injusticias que desapruebas en teoría pero frente a las que no actúas de forma efectiva en tu vida cotidiana?",
+    "pregunta_abierta": "Si lo que cuenta es lo que haces y no lo que piensas, ¿cómo juzgas tu propia coherencia cuando tus acciones diarias contradicen principios que afirmas defender públicamente?",
+    "temas": ["acción", "coherencia", "responsabilidad"]
+  },
+  {
+    "cita": "El hombre está condenado a ser libre, ya que una vez en el mundo, es responsable de todos sus actos.",
+    "autor": "Jean-Paul Sartre",
+    "corriente": "existencialismo",
+    "dilema": "¿Crees justo responsabilizar plenamente a alguien por sus decisiones cuando ha crecido en un contexto de pobreza, violencia o manipulación informativa extrema?",
+    "pregunta_abierta": "Si toda elección te define aunque esté condicionada por tu entorno, ¿dónde colocas el límite entre la libertad personal y la determinación social cuando juzgas la vida de otros… y la tuya?",
+    "temas": ["libertad", "responsabilidad", "contexto"]
+  },
+  {
+    "cita": "La existencia es anterior a la esencia, y gobierna sobre ella.",
+    "autor": "Jean-Paul Sartre",
+    "corriente": "existencialismo",
+    "dilema": "¿Crees que una persona puede reinventar radicalmente su identidad sin deber nada a las expectativas de su entorno cercano?",
+    "pregunta_abierta": "Si nadie nace con un papel fijo, ¿qué obligaciones, si es que hay alguna, tienes con el «personaje» que tu familia, tu cultura o tu pasado han escrito para ti cuando decides romper con todo?",
+    "temas": ["identidad", "cambio vital", "autenticidad"]
+  },
+  {
+    "cita": "Solo son los actos los que deciden sobre lo que se ha querido.",
+    "autor": "Jean-Paul Sartre",
+    "corriente": "existencialismo",
+    "dilema": "¿Te parece moralmente válido excusarte en tus buenas intenciones cuando tus decisiones terminan dañando gravemente a alguien cercano?",
+    "pregunta_abierta": "Si tus actos acaban contradiciendo tus intenciones declaradas, ¿qué pesa más a la hora de juzgarte a ti mismo: lo que querías hacer o lo que efectivamente hiciste?",
+    "temas": ["intenciones", "acciones", "culpa"]
+  },
+  {
+    "cita": "La vida no es otra cosa que la suma de nuestras elecciones.",
+    "autor": "Jean-Paul Sartre",
+    "corriente": "existencialismo",
+    "dilema": "¿Te parece responsable seguir posponiendo decisiones cruciales esperando que «el tiempo lo aclare»?",
+    "pregunta_abierta": "Si no elegir también es una forma de elegir, ¿qué precio estás pagando ahora mismo por mantenerte en la indecisión, y a quién más arrastras con tu miedo a tomar partido?",
+    "temas": ["elección", "indecisión", "proyecto vital"]
+  },
+  {
+    "cita": "El infierno son los otros.",
+    "autor": "Jean-Paul Sartre",
+    "corriente": "existencialismo",
+    "dilema": "¿Evitas relaciones íntimas para preservar tu libertad individual absoluta?",
+    "pregunta_abierta": "Si los otros amenazan tu proyecto existencial, ¿qué relaciones sacrificas por autenticidad y cuál es el precio real de esa soledad elegida?",
+    "temas": ["relaciones", "libertad", "autenticidad"]
+  },
+  {
+    "cita": "El suicidio es el único problema filosófico serio.",
+    "autor": "Albert Camus",
+    "corriente": "existencialismo",
+    "dilema": "¿Crees que alguien con una enfermedad incurable y gran sufrimiento debería tener el derecho legal a poner fin a su vida asistido por profesionales?",
+    "pregunta_abierta": "Si piensas que la vida tiene un valor intrínseco, ¿hay algún límite de dolor o pérdida de dignidad a partir del cual ese valor deja de obligar moralmente a seguir viviendo?",
+    "temas": ["suicidio", "eutanasia", "dignidad"]
+  },
+  {
+    "cita": "Me rebelo, luego somos.",
+    "autor": "Albert Camus",
+    "corriente": "existencialismo",
+    "dilema": "¿Te parece legítimo desobedecer leyes que consideras injustas si eso implica exponerte a sanciones graves?",
+    "pregunta_abierta": "Cuando sientes que una norma te convierte en cómplice de una injusticia, ¿qué pesa más: la seguridad personal o el deber de rebeldía para poder mirarte al espejo sin sentir cobardía?",
+    "temas": ["rebeldía", "obediencia", "conciencia"]
+  },
+  {
+    "cita": "El sentido de la vida es la más urgente de las preguntas.",
+    "autor": "Albert Camus",
+    "corriente": "existencialismo",
+    "dilema": "¿Consideras una pérdida de tiempo dedicar varios años de tu vida a buscar tu propio sentido, aunque eso retrase tu estabilidad económica?",
+    "pregunta_abierta": "Si nunca te detienes seriamente a preguntarte para qué vives, ¿quién o qué crees que está escribiendo entonces el guion de tu vida en tu lugar?",
+    "temas": ["sentido", "trabajo", "proyecto vital"]
+  },
+  {
+    "cita": "Hay que imaginar a Sísifo feliz.",
+    "autor": "Albert Camus",
+    "corriente": "nihilismo",
+    "dilema": "¿Es honesto decirle a alguien que su vida puede ser plena cuando vive atrapado en trabajos precarios y sin expectativas de mejora real?",
+    "pregunta_abierta": "Si el mundo es objetivamente absurdo e injusto, ¿hasta qué punto crees que es una forma de autoengaño construir un relato de sentido personal para seguir viviendo con dignidad?",
+    "temas": ["absurdo", "sentido", "esperanza"]
+  },
+  {
+    "cita": "Su filosofía del absurdo constituye una alternativa a esa carencia de fe que el ser humano tuvo que enfrentar.",
+    "autor": "Albert Camus",
+    "corriente": "existencialismo",
+    "dilema": "¿Te parece honesto abandonar completamente una tradición religiosa que da consuelo a tus padres si tú ya no crees en ella, aunque eso rompa un vínculo importante?",
+    "pregunta_abierta": "Si el absurdo te obliga a inventar tu propio sentido, ¿qué deuda crees que mantienes con las narrativas que sostuvieron a tu familia cuando tú ya no puedes repetirlas sin mentir?",
+    "temas": ["religión", "familia", "honestidad"]
+  },
+  {
+    "cita": "No se nace mujer: se llega a serlo.",
+    "autor": "Simone de Beauvoir",
+    "corriente": "feminismo",
+    "dilema": "¿Te parece justo cuestionar públicamente roles de género tradicionales en tu familia aunque eso rompa la armonía y genere conflicto abierto?",
+    "pregunta_abierta": "Si crees que el género está construido socialmente, ¿qué coste personal estás dispuesto a asumir para desafiar las expectativas que otros han colocado sobre tu cuerpo y tu vida?",
+    "temas": ["género", "familia", "roles"]
+  },
+  {
+    "cita": "La máxima expresión de la existencia es la libertad.",
+    "autor": "Simone de Beauvoir",
+    "corriente": "feminismo",
+    "dilema": "¿Debe una persona renunciar a parte de sus proyectos profesionales por seguir en una relación donde la otra parte no está dispuesta a redistribuir cuidados y tareas domésticas?",
+    "pregunta_abierta": "Si tu libertad depende de que alguien renuncie a parte de la suya, ¿puede tu relación considerarse realmente justa, o se sostiene sobre un tipo de dominación que prefieres no nombrar?",
+    "temas": ["libertad", "pareja", "cuidado"]
+  },
+  {
+    "cita": "La vida es injusta, es atroz y eso hay que aceptarlo libremente.",
+    "autor": "Simone de Beauvoir",
+    "corriente": "existencialismo",
+    "dilema": "¿Crees que es sano educar a los niños en una visión cruda de la injusticia del mundo, en lugar de protegerlos con relatos optimistas sobre meritocracia y bondad general?",
+    "pregunta_abierta": "Si asumes que el mundo puede ser brutal con ellos, ¿qué les debes más: esperanza para que no se rompan o lucidez para que no se engañen?",
+    "temas": ["educación", "realismo", "esperanza"]
+  },
+  {
+    "cita": "El cuerpo no es una cosa, es una situación.",
+    "autor": "Simone de Beauvoir",
+    "corriente": "feminismo",
+    "dilema": "¿Te parece legítimo intervenir estéticamente tu cuerpo de forma extrema para encajar en estándares de belleza dominantes si eso implica riesgos serios para tu salud?",
+    "pregunta_abierta": "Si tu cuerpo es un proyecto en el que actúas, ¿en qué momento crees que deja de ser una expresión de libertad y se convierte en una sumisión a miradas y expectativas ajenas?",
+    "temas": ["cuerpo", "belleza", "autonomía"]
+  },
+  {
+    "cita": "Quiero que cada vida humana sea una aventura consciente.",
+    "autor": "Simone de Beauvoir",
+    "corriente": "existencialismo",
+    "dilema": "¿Estás dispuesto a renunciar a estabilidad y comodidad para vivir una vida más arriesgada pero sentida como propia, aunque eso preocupe o decepcione a tus padres o pareja?",
+    "pregunta_abierta": "Si sabes que el tiempo es limitado, ¿qué temes más realmente: fracasar en tus proyectos o llegar al final con la sensación de no haber vivido una vida elegida por ti?",
+    "temas": ["aventura", "riesgo", "familia"]
+  },
+  {
+    "cita": "La naturaleza ha puesto a la humanidad bajo el gobierno de dos amos, el sufrimiento y el placer.",
+    "autor": "Jeremy Bentham",
+    "corriente": "utilitarismo",
+    "dilema": "¿Te parece moralmente aceptable que un gobierno limite libertades individuales si promete reducir de forma significativa el daño y la inseguridad?",
+    "pregunta_abierta": "Si el criterio es maximizar la felicidad total, ¿qué libertades tuyas estarías dispuesto a sacrificar si vieras datos convincentes de que así se reduciría el sufrimiento de millones?",
+    "temas": ["utilidad", "seguridad", "libertad"]
+  },
+  {
+    "cita": "El principio de la utilidad aprueba o desaprueba cada acción de acuerdo a la tendencia que tiene de incrementar o disminuir la felicidad.",
+    "autor": "Jeremy Bentham",
+    "corriente": "utilitarismo",
+    "dilema": "¿Crees que es ético que una empresa tecnológica priorice decisiones que aumentan el bienestar agregado de sus usuarios aunque perjudiquen gravemente a una minoría pequeña?",
+    "pregunta_abierta": "Si una política hace mucho bien a muchos y un gran daño a pocos, ¿hasta qué punto te parece aceptable «sacrificar» a esos pocos, y cambiaría tu juicio si uno de ellos fueras tú?",
+    "temas": ["bienestar", "minorías", "empresa"]
+  },
+  {
+    "cita": "La cantidad de placer siendo igual, la partida de ajedrez es tan buena como la de música.",
+    "autor": "Jeremy Bentham",
+    "corriente": "utilitarismo",
+    "dilema": "¿Es razonable diseñar algoritmos que optimicen solo métricas de satisfacción inmediata del usuario, aunque fomenten adicción o pérdida de atención a largo plazo?",
+    "pregunta_abierta": "Si todo placer cuenta por igual, ¿cómo justificas que ciertos placeres «bajos» deban ser restringidos por tu propio bien, y quién debería decidir qué tipo de disfrute te conviene?",
+    "temas": ["placer", "tecnología", "adicción"]
+  },
+  {
+    "cita": "Cada persona cuenta por uno, y nadie por más de uno.",
+    "autor": "Jeremy Bentham",
+    "corriente": "utilitarismo",
+    "dilema": "¿Te parece justo que los votos de personas muy informadas valgan lo mismo que los de quienes se guían principalmente por desinformación o intereses inmediatos?",
+    "pregunta_abierta": "Si crees que todas las personas cuentan igual, ¿aceptarías decisiones colectivas que consideras gravemente equivocadas solo porque expresan la suma de preferencias mayoritarias?",
+    "temas": ["igualdad", "democracia", "decisión colectiva"]
+  },
+  {
+    "cita": "La mayor felicidad para el mayor número es la medida del bien y del mal.",
+    "autor": "Jeremy Bentham",
+    "corriente": "utilitarismo",
+    "dilema": "¿Justificarías políticas de salud pública que obligan a restricciones severas de movilidad para proteger a grupos vulnerables aunque tú no estés de acuerdo?",
+    "pregunta_abierta": "Cuando tu libertad entra en conflicto con la protección de otros, ¿dónde sitúas el límite razonable de sacrificio personal en nombre de una felicidad o seguridad colectiva?",
+    "temas": ["salud pública", "colectivo", "coerción"]
+  },
+  {
+    "cita": "Cada persona tiene el mismo derecho a la mayor extensión de las mismas libertades básicas compatible con la misma libertad para todos.",
+    "autor": "John Rawls",
+    "corriente": "liberalismo",
+    "dilema": "¿Te parece legítimo limitar la libertad de expresión de discursos de odio si con ello se protege la seguridad y dignidad de grupos vulnerables?",
+    "pregunta_abierta": "Si valoras la libertad como principio básico, ¿qué tipo de discursos aceptarías prohibir por ley y cómo evitarías que esa misma herramienta se vuelva contra voces críticas en el futuro?",
+    "temas": ["libertad", "discurso", "derechos"]
+  },
+  {
+    "cita": "Las desigualdades sociales y económicas deben ser dispuestas de tal manera que produzcan el mayor beneficio para los más necesitados.",
+    "autor": "John Rawls",
+    "corriente": "liberalismo",
+    "dilema": "¿Apoyarías impuestos muy altos a las grandes fortunas aunque eso pudiera desincentivar cierta innovación o inversión privada?",
+    "pregunta_abierta": "Si la desigualdad solo es aceptable cuando mejora la situación de los peor situados, ¿qué tipo de privilegios que hoy disfrutas crees que no podrías seguir defendiendo sin incoherencia?",
+    "temas": ["desigualdad", "impuestos", "justicia distributiva"]
+  },
+  {
+    "cita": "Una sociedad justa es un sistema de cooperación equitativa entre personas libres e iguales.",
+    "autor": "John Rawls",
+    "corriente": "liberalismo",
+    "dilema": "¿Te parece justo acumular ventajas educativas para tus hijos sabiendo que refuerzas desigualdades difíciles de revertir?",
+    "pregunta_abierta": "Si supieras que el éxito de tus hijos depende en parte de cerrar oportunidades a otros niños, ¿estarías dispuesto a renunciar a ciertos privilegios en nombre de una cooperación más equitativa?",
+    "temas": ["educación", "familia", "equidad"]
+  },
+  {
+    "cita": "La justicia es la primera virtud de las instituciones sociales, como la verdad lo es de los sistemas de pensamiento.",
+    "autor": "John Rawls",
+    "corriente": "liberalismo",
+    "dilema": "¿Debería un gobierno revisar radicalmente políticas que aumentan el PIB pero agravan la exclusión social y la pobreza extrema?",
+    "pregunta_abierta": "Si una institución es muy eficiente pero claramente injusta, ¿preferirías reformarla aunque eso la haga menos productiva, o mantenerla porque «funciona» económicamente?",
+    "temas": ["justicia", "instituciones", "eficiencia"]
+  },
+  {
+    "cita": "La cultura occidental está viciada desde su origen. Su error, el más pertinaz y peligroso de todos, consiste en instaurar la racionalidad a toda costa.",
+    "autor": "Friedrich Nietzsche",
+    "corriente": "nihilismo",
+    "dilema": "¿Confías más en datos y algoritmos que en tu intuición a la hora de tomar decisiones importantes, como elegir pareja o carrera profesional?",
+    "pregunta_abierta": "Si sospechas que la razón puede disfrazar miedos y deseos de control, ¿cómo decides cuándo escuchar a tu intuición aun cuando va contra todas las evidencias racionales disponibles?",
+    "temas": ["racionalidad", "intuición", "modernidad"]
+  },
+  {
+    "cita": "De nadie estamos más lejos que de nosotros mismos.",
+    "autor": "Friedrich Nietzsche",
+    "corriente": "existencialismo",
+    "dilema": "¿Te parece prudente confiar en tu autopercepción sin contrastarla seriamente con cómo te ven otros?",
+    "pregunta_abierta": "Si reconoces que puedes engañarte sobre quién eres, ¿qué prácticas concretas estás dispuesto a incorporar para enfrentarte a una imagen menos cómoda de ti mismo?",
+    "temas": ["autoconocimiento", "engaño", "carácter"]
+  },
+  {
+    "cita": "Esta vida como ahora la vives tendrás que vivirla una vez más e innumerables veces más.",
+    "autor": "Friedrich Nietzsche",
+    "corriente": "existencialismo",
+    "dilema": "¿Cambiarías algo importante de tu vida actual si supieras que vas a repetirla eternamente tal como la estás viviendo hoy?",
+    "pregunta_abierta": "Si te imaginas que cada decisión se repetirá infinitas veces, ¿qué hábitos o relaciones se vuelven de repente intolerables, y por qué sigues aceptándolos ahora mismo?",
+    "temas": ["eterno retorno", "hábitos", "proyecto vital"]
+  },
+  {
+    "cita": "La alternativa que propone Nietzsche es el superhombre que se transforma y se supera a sí mismo ante el vacío que deja la muerte de Dios.",
+    "autor": "Friedrich Nietzsche",
+    "corriente": "existencialismo",
+    "dilema": "¿Te parece deseable aspirar a una autoexigencia extrema de mejora constante aunque eso te haga más duro e impaciente con las debilidades de los demás?",
+    "pregunta_abierta": "Si te tomas en serio la idea de superarte radicalmente, ¿cómo evitas que tu proyecto de grandeza se convierta en desprecio silencioso hacia quienes no siguen el mismo camino?",
+    "temas": ["superación", "exigencia", "empatía"]
+  },
+  {
+    "cita": "Hay que decir sí a la vida aun en sus más extrañas e inmorales formas.",
+    "autor": "Friedrich Nietzsche",
+    "corriente": "nihilismo",
+    "dilema": "¿Aceptas comportamientos inmorales en amigos si te aportan alegría y lealtad?",
+    "pregunta_abierta": "Si la vida afirma también lo inmoral, ¿dónde pones el límite a tu afirmación vital y qué te impide cruzarlo?",
+    "temas": ["afirmación", "moral", "amistad"]
+  },
+  {
+    "cita": "Vive peligrosamente.",
+    "autor": "Friedrich Nietzsche",
+    "corriente": "existencialismo",
+    "dilema": "¿Renuncias a estabilidad por una vida arriesgada aunque preocupe a tu familia?",
+    "pregunta_abierta": "Si el tiempo es limitado, ¿temes más fracasar en tus proyectos o no haber vivido una vida auténticamente tuya?",
+    "temas": ["riesgo", "autenticidad", "familia"]
+  },
+  {
+    "cita": "El oro circula porque tiene valor, pero el papel moneda tiene valor porque circula.",
+    "autor": "Karl Marx",
+    "corriente": "marxismo",
+    "dilema": "¿Te parece razonable invertir tus ahorros en activos puramente especulativos que pueden desplomarse y arruinar a muchos pequeños inversores?",
+    "pregunta_abierta": "Si el valor depende de la circulación y la confianza colectiva, ¿qué responsabilidad tienes al participar en burbujas financieras que pueden destruir vidas que nunca conoces?",
+    "temas": ["dinero", "especulación", "responsabilidad"]
+  },
+  {
+    "cita": "Las guerras giran en torno a la economía.",
+    "autor": "Karl Marx",
+    "corriente": "marxismo",
+    "dilema": "¿Apoyarías sanciones económicas a tu propio país si fueran necesarias para detener una guerra injusta en la que participa tu gobierno?",
+    "pregunta_abierta": "Si tu prosperidad está ligada a conflictos que destruyen la vida de otros, ¿qué grado de sacrificio económico considerarías moralmente obligado para no beneficiarte de esa violencia?",
+    "temas": ["guerra", "economía", "sanciones"]
+  },
+  {
+    "cita": "Los filósofos no han hecho más que interpretar de diversos modos el mundo, pero de lo que se trata es de transformarlo.",
+    "autor": "Karl Marx",
+    "corriente": "marxismo",
+    "dilema": "¿Te parece suficiente compartir opiniones críticas en redes sociales sin implicarte en acciones organizadas que busquen cambiar las estructuras que criticas?",
+    "pregunta_abierta": "Si crees que las cosas son injustas pero tu vida diaria apenas refleja esa preocupación, ¿hasta qué punto tu crítica es una forma más de entretenimiento y no de transformación?",
+    "temas": ["acción", "activismo", "coherencia"]
+  },
+  {
+    "cita": "Si todo está vacío, no hay surgir ni cesar para ti.",
+    "autor": "Nagarjuna",
+    "corriente": "budismo",
+    "dilema": "¿Crees que prácticas como la meditación o la atención plena pueden usarse legítimamente en empresas para que los empleados acepten mejor un entorno laboral tóxico sin cuestionarlo?",
+    "pregunta_abierta": "Si comprendes que todo es transitorio y vacío de esencia, ¿eso te invita más a aceptar sin lucha lo que ocurre o a comprometerte con cambiar el sufrimiento evitable en tu entorno?",
+    "temas": ["vacuidad", "meditación", "empresa"]
+  },
+  {
+    "cita": "No hay ninguna distinción entre nirvana y samsara.",
+    "autor": "Nagarjuna",
+    "corriente": "budismo",
+    "dilema": "¿Te parece sensato buscar experiencias espirituales extraordinarias como vía principal para escapar de la insatisfacción cotidiana?",
+    "pregunta_abierta": "Si lo absoluto y lo cotidiano no están separados, ¿qué revela sobre tu relación con la realidad el hecho de que busques constantemente «otro lugar» donde por fin estar bien?",
+    "temas": ["espiritualidad", "huida", "cotidiano"]
+  },
+  {
+    "cita": "A partir de la inexistencia de las Cuatro Nobles Verdades, ni siquiera el buen Dharma existe.",
+    "autor": "Nagarjuna",
+    "corriente": "budismo",
+    "dilema": "¿Crees que una enseñanza puede seguir siendo valiosa para ti incluso si dejas de creer en su verdad literal o metafísica?",
+    "pregunta_abierta": "Si aceptas que incluso tus marcos espirituales favoritos son construcciones vacías, ¿cómo decides cuáles seguir practicando sin caer en el cinismo total o en la credulidad acrítica?",
+    "temas": ["doctrina", "verdad", "práctica"]
+  },
+  {
+    "cita": "El límite del nirvana es el límite del samsara, no existe nada entre ellos, ni siquiera algo muy sutil.",
+    "autor": "Nagarjuna",
+    "corriente": "budismo",
+    "dilema": "¿Te parece razonable aspirar a una vida sin sufrimiento psicológico significativo, o crees que esa expectativa alimenta aún más tu frustración?",
+    "pregunta_abierta": "Si sufrimiento y liberación surgen en la misma mente, ¿qué cambia en tu forma concreta de relacionarte con el dolor cuando dejas de verlo como enemigo absoluto que hay que erradicar?",
+    "temas": ["sufrimiento", "aceptación", "expectativas"]
+  },
+  {
+    "cita": "No existe la comunidad de los discípulos, ni las ocho clases de personas.",
+    "autor": "Nagarjuna",
+    "corriente": "budismo",
+    "dilema": "¿Te parece saludable identificarte fuerte y públicamente con una etiqueta espiritual o ideológica como parte de tu identidad?",
+    "pregunta_abierta": "Si todas las categorías son convencionales, ¿en qué momento tu etiqueta espiritual o política se convierte en una jaula que limita tu capacidad de ver al otro y de revisarte a ti mismo?",
+    "temas": ["identidad", "etiquetas", "espiritualidad"]
+  },
+  {
+    "cita": "Para ser una buena madre, una mujer debe tener conciencia e independencia de pensamiento.",
+    "autor": "Mary Wollstonecraft",
+    "corriente": "feminismo",
+    "dilema": "¿Consideras aceptable que una madre priorice de forma radical su formación y carrera durante algunos años, aunque eso implique delegar muchos cuidados en otras personas?",
+    "pregunta_abierta": "Si crees que la autonomía intelectual es clave para cuidar bien, ¿cómo equilibrarías el tiempo dedicado a tus propios proyectos con la presencia que tus hijos te reclaman?",
+    "temas": ["maternidad", "autonomía", "cuidados"]
+  },
+  {
+    "cita": "Les ruego que ayuden a sus compañeras a ser independientes, para que ellas sean su mayor apoyo.",
+    "autor": "Mary Wollstonecraft",
+    "corriente": "feminismo",
+    "dilema": "¿Te parece justo que un hombre renuncie a parte de sus privilegios profesionales para que su pareja pueda desarrollar su propio proyecto vital?",
+    "pregunta_abierta": "Si sabes que tu independencia se construyó también sobre desigualdades históricas, ¿qué concesiones reales estarías dispuesto a hacer para que las mujeres cercanas no dependan de tu buena voluntad?",
+    "temas": ["igualdad", "pareja", "privilegio"]
+  },
+  {
+    "cita": "Sostiene que hombres y mujeres son seres humanos y, por tanto, sujetos a los mismos derechos y responsabilidades.",
+    "autor": "Mary Wollstonecraft",
+    "corriente": "feminismo",
+    "dilema": "¿Apoyarías que en tu entorno laboral se establezcan cuotas de género obligatorias en puestos directivos aunque eso pueda afectar a tu propia promoción?",
+    "pregunta_abierta": "Si la igualdad formal no basta para corregir desigualdades de hecho, ¿qué medidas te parecen aceptables aunque impliquen renunciar a oportunidades que consideras que has ganado por mérito propio?",
+    "temas": ["derechos", "cuotas", "mérito"]
+  },
+  {
+    "cita": "No dice que hombres y mujeres sean iguales, o que las mujeres deban tener un papel superior a los hombres.",
+    "autor": "Mary Wollstonecraft",
+    "corriente": "feminismo",
+    "dilema": "¿Crees que es legítimo reivindicar diferencias entre hombres y mujeres en ciertas tareas si no se usan para justificar inferioridad ni exclusión?",
+    "pregunta_abierta": "Si aceptas ciertas diferencias, ¿cómo evitas que se conviertan en excusas para limitar oportunidades, y quién decide qué diferencias son relevantes y cuáles son puro prejuicio?",
+    "temas": ["diferencia", "igualdad", "roles"]
+  },
+  {
+    "cita": "El ser humano no es libre, sino que su existencia está predeterminada.",
+    "autor": "Epicteto",
+    "corriente": "estoicismo",
+    "dilema": "¿Te parece sano aceptar serenamente acontecimientos injustos en tu vida en lugar de luchar activamente para cambiarlos o denunciarlos?",
+    "pregunta_abierta": "Si crees que mucho escapa a tu control, ¿cómo distingues entre lo que debes aceptar con calma y lo que tienes la obligación moral de intentar cambiar aunque parezca inútil?",
+    "temas": ["destino", "acción", "aceptación"]
+  },
+  {
+    "cita": "No tiene sentido que sintamos preocupaciones, angustias o frustraciones por lo que no depende de nosotros.",
+    "autor": "Epicteto",
+    "corriente": "estoicismo",
+    "dilema": "¿Es responsable dejar de preocuparte por problemas globales argumentando que poco puedes hacer como individuo?",
+    "pregunta_abierta": "Si reduces tu angustia desconectando del sufrimiento del mundo, ¿eso te acerca a una vida sabia o te convierte en alguien indiferente ante males que podrías mitigar al menos un poco?",
+    "temas": ["preocupación", "clima", "indiferencia"]
+  },
+  {
+    "cita": "Ante todo, serenidad de espíritu.",
+    "autor": "Epicteto",
+    "corriente": "estoicismo",
+    "dilema": "¿Te parece deseable priorizar tu paz mental aunque eso implique alejarte de personas o causas que te importan pero te generan conflicto y ansiedad?",
+    "pregunta_abierta": "Si haces de la paz interior tu valor supremo, ¿qué tipo de compromisos, pérdidas o injusticias estás dispuesto a tolerar en silencio para no alterar tu serenidad?",
+    "temas": ["serenidad", "vínculos", "compromiso"]
+  },
+  {
+    "cita": "Cabe destacar que la obra ha tenido a lo largo de los siglos visiones diferentes.",
+    "autor": "Mary Wollstonecraft",
+    "corriente": "feminismo",
+    "dilema": "¿Crees que es legítimo reinterpretar textos clásicos para apoyar luchas actuales aunque sus autores no compartieran esas agendas?",
+    "pregunta_abierta": "Si todo texto queda abierto a nuevas lecturas, ¿dónde trazas la línea entre una reinterpretación fértil y un uso interesado que traiciona su sentido original?",
+    "temas": ["interpretación", "tradición", "política"]
+  }
+]
